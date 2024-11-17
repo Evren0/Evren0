@@ -1,6 +1,6 @@
 # About Me
 
-## Hi, I'm Evren!
+## Hi, I'm Emrullah!
 
 I am a web developer with a strong foundation in JavaScript, HTML, and CSS. I enjoy creating websites that are both functional and visually appealing.
 
